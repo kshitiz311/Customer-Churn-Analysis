@@ -27,7 +27,7 @@ Churn Reasons are actually grouped together in the ‘Churn Category’ column. 
 
 USING MAPS FOR FURTHER EXPLORATION
 
-In relation to customer, it is known that Competitors launched aggressive promos in certain states. Databel is wondering if it had impact on their customers. We created therefore a map in Tableau to investigate the churn rate by state. The result shows that the state of California (CA) has the highest churn rate (63.24%, 43 out of 68).
+In relation to customer, it is known that Competitors launched aggressive promos in certain states. Databel is wondering if it had impact on their customers. We created therefore a map in Tableau and PowerBI to investigate the churn rate by state. The result shows that the state of California (CA) has the highest churn rate (63.24%, 43 out of 68).
 
 ANALYZING DEMOGRAPHICS
 
